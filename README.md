@@ -47,7 +47,7 @@ Quick Start:
 
 5. Upgrade psycopg2 (>= 2.5): sudo pip install -U psycopg2
 
-6. Clone tournament repo (in VM): git clone https://github.com/rajputss.git
+6. Clone tournament repo (in VM): git clone https://github.com/rajputss/Project2_RelationalDatabase_Tournament.git
 
 7. Navigate to tournament_results cd Project2_RelationalDatabase_Tournament
 
