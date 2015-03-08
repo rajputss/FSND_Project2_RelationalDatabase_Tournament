@@ -1,7 +1,7 @@
 -- Table definitions for the tournament results project.
 
-DROP DATABASE tournamenttest;
-CREATE DATABASE tournamenttest;
+DROP DATABASE tournament;
+CREATE DATABASE tournament;
 
 \connect tournament
 
